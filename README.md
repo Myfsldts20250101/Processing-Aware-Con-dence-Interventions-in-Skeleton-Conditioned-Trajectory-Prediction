@@ -6,7 +6,8 @@
 
 拟沿用的分发仓库：
 
-<https://github.com/Myfsldts20250101/Processing-Aware-Con-dence-Interventions-in-Skeleton-Conditioned-Trajectory-Prediction>
+Code: <https://github.com/Myfsldts20250101/Processing-Aware-Con-dence-Interventions-in-Skeleton-Conditioned-Trajectory-Prediction>
+Checkpoints (Zenodo DOI): https://doi.org/10.5281/zenodo.23414563
 
 本地整理未向该仓库推送文件。
 
