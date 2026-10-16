@@ -1,0 +1,66 @@
+{
+  "source": "J:\\2026\\paper\\论文02\\输出\\MVA_投稿整理_20261015\\绘图源",
+  "copied_files": [
+    {
+      "path": "figures/绘图源/correspondence_architecture_appendix.drawio",
+      "sha256": "07ae3ae904c182919dcc69494c95e42eba105a85c6a3ca85a05f0ef93315afbe"
+    },
+    {
+      "path": "figures/绘图源/correspondence_diagnostic_overview.drawio",
+      "sha256": "b31b101d72d6f03e6b580264288aba97ffe7bf604786be72a655e7ed759247cc"
+    },
+    {
+      "path": "figures/绘图源/correspondence_diagnostic_overview.svg",
+      "sha256": "f508a25bf4cb1b5fe5e109486afb87dc3e4d14db12725d1e4c3edaf959a8d7c9"
+    },
+    {
+      "path": "figures/绘图源/correspondence_nj_policy_support.svg",
+      "sha256": "cf56f4d1fd40b39bb77ae29fbe925a6fed485fe97cbfc93b06d6535245d78e69"
+    },
+    {
+      "path": "figures/绘图源/correspondence_protocol.svg",
+      "sha256": "f7fb3a8a466259d743f1fc7f423fa478204d99d059b82e01cf77a3863fb3d42e"
+    },
+    {
+      "path": "figures/绘图源/correspondence_u1f_response_deciles.svg",
+      "sha256": "abc99483a4df9688943241fe4d89f4f4019470cd2f577fe21692561b00162a24"
+    },
+    {
+      "path": "figures/绘图源/F_response_deciles_archived_sample_20261005.csv",
+      "sha256": "b314d2a77465e724eed3caf2fd055be42a60545af2c139f187f7509fcd92d10d"
+    },
+    {
+      "path": "figures/绘图源/figure_regeneration_metadata.json",
+      "sha256": "9eeda2ecf9a5fbbbe59d63781a5d64400867c4436f7ddb034a18e904ed96e6b5"
+    },
+    {
+      "path": "figures/绘图源/historical_F_FIGS_SUMMARY_20261005.json",
+      "sha256": "2b467cb631cfc7bb03704b43c23ba454415e3faedc72941b465e09e54d40e716"
+    },
+    {
+      "path": "figures/绘图源/nj_policy_support_cell_means.csv",
+      "sha256": "c18dc0d8c8bb873583502e5df03cfc342b9b067de8f269d4366a93a10dbb89f8"
+    },
+    {
+      "path": "figures/绘图源/nj_policy_support_source_manifest.json",
+      "sha256": "02bd79f859e6490ddad2d9b3f00030103d1c8fa6f839efc0b95d6883830a4f23"
+    },
+    {
+      "path": "figures/绘图源/redraw_main_figures_20261012.py",
+      "sha256": "fa197355904e38f23b3e7bac21113767c90c83c2d191c5e2fbe717cb597dda9f"
+    },
+    {
+      "path": "figures/绘图源/regenerate_statistical_figures.py",
+      "sha256": "d868a64e19eccee7bf5dfd1c008f49fe6aa6faab42a1512a2567ab0706414aa1"
+    },
+    {
+      "path": "figures/绘图源/STATISTICAL_FIGURES_README.md",
+      "sha256": "18f52362b749715ef4b405fc4e2b4c1ea5844ecd161c52a9a4ffb1b56fdadfbd"
+    },
+    {
+      "path": "figures/绘图源/style_redraw_metadata_20261012.json",
+      "sha256": "0cb15cc3538637ffe75de3133629af1f79fe22ce04a17e3dbbd1d0292cef0f08"
+    }
+  ],
+  "redrawing_executed": false
+}

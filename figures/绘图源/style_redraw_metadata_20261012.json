@@ -1,0 +1,58 @@
+{
+  "date": "2026-10-12",
+  "source_style": "Pinar et al. IDA 2026, DOI 10.1177/1088467X261490986",
+  "scope": "Four main figures only; supplementary figures retained",
+  "no_training_or_inference": true,
+  "no_new_sampling": true,
+  "figures": {
+    "overview": {
+      "type": "Definition diagram",
+      "inputs": "Manuscript O/F/NJ/N definitions; no measured values added"
+    },
+    "protocol": {
+      "type": "Population and repetition diagram",
+      "source": "Manuscript frozen counts; E0 audit explicitly separate from four-condition run"
+    },
+    "policy_support": {
+      "source_sha256": "c18dc0d8c8bb873583502e5df03cfc342b9b067de8f269d4366a93a10dbb89f8",
+      "statistics": {
+        "delta_policy": {
+          "seed_means": [
+            0.003053815343489718,
+            -0.000872971861104734,
+            0.005687506820860326,
+            0.0059582669856512085,
+            0.0011579306839073276,
+            0.0009892709691127846,
+            0.0039033410187975298,
+            0.0007772530253490035
+          ],
+          "mean": 0.0025818016232578957,
+          "sample_sd": 0.0024718588797761052
+        },
+        "delta_support": {
+          "seed_means": [
+            0.006020428016124475,
+            0.006012517514375671,
+            0.019623927255105818,
+            0.008670149130146524,
+            0.005618548185766077,
+            0.02549808129443391,
+            0.00993405279199074,
+            0.0029806110279211933
+          ],
+          "mean": 0.010544789401983052,
+          "sample_sd": 0.007859615942456764
+        }
+      },
+      "whiskers": "Donor min-max, not confidence intervals"
+    },
+    "response_deciles": {
+      "source_sha256": "b314d2a77465e724eed3caf2fd055be42a60545af2c139f187f7509fcd92d10d",
+      "n_records": 80000,
+      "records_per_bin": 8000,
+      "source": "Stored archived bin counts; original sample-row list unavailable",
+      "band": "Descriptive, not equivalence or no effect"
+    }
+  }
+}

@@ -1,0 +1,807 @@
+{
+  "schema_version": "1.0",
+  "hash_algorithm": "SHA-256",
+  "source_root_description": "donor confiendce experiment folder; paths below are relative",
+  "files": [
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s42/d42/per_window_NJ.csv",
+      "bytes": 10338055,
+      "sha256": "6377fa432b0a691ee1e3c464abb06b58858de95d935d7099c76564fb09b51957"
+    },
+    {
+      "path_relative_to_experiment_root": "u1_conf_swap_v2/by_ckpt/s42/d42/per_window_conf_swap_full.csv",
+      "bytes": 14133138,
+      "sha256": "c633e6df92061a3ac6d1cc80ed1ffa1ecdbbc059411bb8aeffaedf586145a922"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s42/d42/NJ_GATE.json",
+      "bytes": 659,
+      "sha256": "ccb64eb85fbfd3d08c3195a191a93e290ea855e79a725465a4a5e3c5f7fe2032"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s42/d42/CELL_MANIFEST.json",
+      "bytes": 806,
+      "sha256": "efb2f8e603a281c15d8f07e5a40443fcb229ee0b4c306bbcd041dcf8381bb666"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s42/d43/per_window_NJ.csv",
+      "bytes": 10339105,
+      "sha256": "a5e5e63da14627fe8d2731aaa5b7b566365841e4f382e45d89336e9aba5beee8"
+    },
+    {
+      "path_relative_to_experiment_root": "u1_conf_swap_v2/by_ckpt/s42/d43/per_window_conf_swap_full.csv",
+      "bytes": 14133670,
+      "sha256": "6b5650db67f5819dd3f044a2dfb6f5ccc01323d756494dee226112d9b543385b"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s42/d43/NJ_GATE.json",
+      "bytes": 659,
+      "sha256": "2424cefac6ac5212c70242b8492e2e301dc1ac40c36ee8bc4fb07888316d38ff"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s42/d43/CELL_MANIFEST.json",
+      "bytes": 806,
+      "sha256": "07dd1da223cd71f8d7f61777f8961173c845b7a78c876398df91554fede197f9"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s42/d44/per_window_NJ.csv",
+      "bytes": 10329796,
+      "sha256": "412980d9366050e5419a2716d5fe919bd0a10312944ad03ed0968636b8c07ff0"
+    },
+    {
+      "path_relative_to_experiment_root": "u1_conf_swap_v2/by_ckpt/s42/d44/per_window_conf_swap_full.csv",
+      "bytes": 14134344,
+      "sha256": "dee3bcff8b21f6c233e4c1fbb055949ae82d4c4c89432e9a0aa6b4798fd40e39"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s42/d44/NJ_GATE.json",
+      "bytes": 659,
+      "sha256": "4cc404317e26350751f0b4d5330b14afc2e2468d399bbcf9564b4132caaea5ad"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s42/d44/CELL_MANIFEST.json",
+      "bytes": 806,
+      "sha256": "0fd03a6fd0b2091601f13fed74ba9b2ae1ddbe60fb232cd9963022231b169447"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s42/d45/per_window_NJ.csv",
+      "bytes": 10334476,
+      "sha256": "2f401b0e5f2c4c5bba8ce2eea1b0e33806611869e8699fddce75bd5fa3de5f04"
+    },
+    {
+      "path_relative_to_experiment_root": "u1_conf_swap_v2/by_ckpt/s42/d45/per_window_conf_swap_full.csv",
+      "bytes": 14132670,
+      "sha256": "1ead073ce5aff9b06983afc3ad7184d61104afe8330fa6e9250667243ea6d789"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s42/d45/NJ_GATE.json",
+      "bytes": 659,
+      "sha256": "947fc0f05733d0885dadd43bc8e0a95a70a4dbf3e9b38ab82360ede31baf49fe"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s42/d45/CELL_MANIFEST.json",
+      "bytes": 806,
+      "sha256": "578c18dea04e0ee5112fe3895aa7dcda41df19571f2ed48424526d6db207b426"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s42/d46/per_window_NJ.csv",
+      "bytes": 10328146,
+      "sha256": "7b5e1138f39985b35c9dc8144fd7450b527b39917ead3ffaefe66199e2038feb"
+    },
+    {
+      "path_relative_to_experiment_root": "u1_conf_swap_v2/by_ckpt/s42/d46/per_window_conf_swap_full.csv",
+      "bytes": 14133673,
+      "sha256": "7ee77b71ed51694d0aa0f7c9252254250239496240b047d459bea81947d412df"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s42/d46/NJ_GATE.json",
+      "bytes": 659,
+      "sha256": "fb19410799c15607f873119ad1be62eba61bafa2032aae716529e1544736f988"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s42/d46/CELL_MANIFEST.json",
+      "bytes": 806,
+      "sha256": "a96bab3e1497c3507f52ef001f2e2c7e82eb9e0833ec76a359646e980caaa41f"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s43/d42/per_window_NJ.csv",
+      "bytes": 10378505,
+      "sha256": "0550b5b6b11eb8f8b183af46a16fc034e60e4e1617e7de372a1f99c6673ea0bb"
+    },
+    {
+      "path_relative_to_experiment_root": "u1_conf_swap_v2/by_ckpt/s43/d42/per_window_conf_swap_full.csv",
+      "bytes": 14143390,
+      "sha256": "d428c41b25423202e5b9f29db5f5b06f24b8faeeb124f75307bbad2dabff073b"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s43/d42/NJ_GATE.json",
+      "bytes": 659,
+      "sha256": "07b18b9dae3fcf723db30ed1dcb81cf398de5a10e36889b734ba31fa06f909e2"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s43/d42/CELL_MANIFEST.json",
+      "bytes": 800,
+      "sha256": "a9cf5f31e65d29a606f49862f2f78b109f3d3a4fe4a6a5cc75006bc9a2d28796"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s43/d43/per_window_NJ.csv",
+      "bytes": 10378446,
+      "sha256": "72119345d984ef3441b8d6c5352246f58ed8e1a9a9001d09aed855a452d413d2"
+    },
+    {
+      "path_relative_to_experiment_root": "u1_conf_swap_v2/by_ckpt/s43/d43/per_window_conf_swap_full.csv",
+      "bytes": 14143361,
+      "sha256": "6b3e7513bcd0910fe9fe465a0968839af8b7a3e0b79e89c2a11cfb41a8c2f770"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s43/d43/NJ_GATE.json",
+      "bytes": 659,
+      "sha256": "cf37b943f3d75201a6019b456c57fccd69d98727ebd5b239064a9af5be308bdd"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s43/d43/CELL_MANIFEST.json",
+      "bytes": 800,
+      "sha256": "44bee115dc895b111345876909d12ffdf647dfbc1b24bbd2903eb470be28ac8d"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s43/d44/per_window_NJ.csv",
+      "bytes": 10368501,
+      "sha256": "e19e5c97a1c7510d8535f7b781268e825ab715b674687ef7eabfc66b2a8d2613"
+    },
+    {
+      "path_relative_to_experiment_root": "u1_conf_swap_v2/by_ckpt/s43/d44/per_window_conf_swap_full.csv",
+      "bytes": 14143180,
+      "sha256": "06ddcf725aff891a7c6df97368b717b7fca04f448a5c45bdc9899f2fa6c739c3"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s43/d44/NJ_GATE.json",
+      "bytes": 659,
+      "sha256": "e14ad05816441e0ddefabda6a9d712bbfbde6b5f1e816d6f3833baaa1cd30ae8"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s43/d44/CELL_MANIFEST.json",
+      "bytes": 800,
+      "sha256": "cb88ac29ba7e9a37b1e3d5b3aaaf1e0fa27a88275315603d8976e7825a5c5c64"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s43/d45/per_window_NJ.csv",
+      "bytes": 10375549,
+      "sha256": "f114c3b52ebea6d51ed8de0e0b32de6759c3a7081d4edf4098a35951754fb75e"
+    },
+    {
+      "path_relative_to_experiment_root": "u1_conf_swap_v2/by_ckpt/s43/d45/per_window_conf_swap_full.csv",
+      "bytes": 14143522,
+      "sha256": "5f6b2fcada34af02ced3daaf11288101762170add05d0f835f91ff03ca45bb44"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s43/d45/NJ_GATE.json",
+      "bytes": 659,
+      "sha256": "366ee35004227e951f6ee09d525a745b0bb44cb81b29ec4668a9ec70022150c3"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s43/d45/CELL_MANIFEST.json",
+      "bytes": 800,
+      "sha256": "6bbbbe51de0600cc2a3ac1d1245e61f28549f29fa35cc935f4d93d2555aa2505"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s43/d46/per_window_NJ.csv",
+      "bytes": 10367996,
+      "sha256": "149edfc97ac6f0c614281029ffc47c6ae1284db91ccb7d55207cef353ea5082e"
+    },
+    {
+      "path_relative_to_experiment_root": "u1_conf_swap_v2/by_ckpt/s43/d46/per_window_conf_swap_full.csv",
+      "bytes": 14141901,
+      "sha256": "1d4e700983d85b99200f5fd18f60a5403c4bc1af38525da73361516c09ef092b"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s43/d46/NJ_GATE.json",
+      "bytes": 659,
+      "sha256": "c9ddf8455ebc079c787cf857f57b3bcace57007d749c70c0ea6eab1d7e4bb68f"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s43/d46/CELL_MANIFEST.json",
+      "bytes": 800,
+      "sha256": "838b46af5ab37c46f33ba8f52dc48fc74cbc5243354674349c0d177cbd42b967"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s44/d42/per_window_NJ.csv",
+      "bytes": 10323985,
+      "sha256": "1a20bed3266e23e02461b150e6b53c8324d7ef370fea601260ee731b87e6542c"
+    },
+    {
+      "path_relative_to_experiment_root": "u1_conf_swap_v2/by_ckpt/s44/d42/per_window_conf_swap_full.csv",
+      "bytes": 14127715,
+      "sha256": "a2b371eb6ffc59d50404317f4a27b1745fb2e20003242511733ad2b72de959a0"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s44/d42/NJ_GATE.json",
+      "bytes": 659,
+      "sha256": "30eb8eabe3578f7813fa52ea0c27594a05cc5c47d7e0937e38fd78afd8e18275"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s44/d42/CELL_MANIFEST.json",
+      "bytes": 800,
+      "sha256": "7d44fdc27cb985a86f001fc58f82ee66e377674ad31c39c8a3a04c63938a3038"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s44/d43/per_window_NJ.csv",
+      "bytes": 10325927,
+      "sha256": "1937809782ce4bed5d68cc604d9e9fbd25e01452be09629ca04947d0f5a5704e"
+    },
+    {
+      "path_relative_to_experiment_root": "u1_conf_swap_v2/by_ckpt/s44/d43/per_window_conf_swap_full.csv",
+      "bytes": 14128200,
+      "sha256": "d1a9533d7da4ed340237350c70955a3442fa54653361d4b02607f7e2b4c84bf7"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s44/d43/NJ_GATE.json",
+      "bytes": 659,
+      "sha256": "436b153e6f4002fed5216236f19a336f2945c866c830c802671733225c0bb710"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s44/d43/CELL_MANIFEST.json",
+      "bytes": 800,
+      "sha256": "a6a161154f292f4d0b0485eaef5f7bb257a7808bc2e0a176d3738c1684466048"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s44/d44/per_window_NJ.csv",
+      "bytes": 10317015,
+      "sha256": "9eccc5f26b56143d4eab1cc91c65930b151f14e3b675c65c569095f28af2254a"
+    },
+    {
+      "path_relative_to_experiment_root": "u1_conf_swap_v2/by_ckpt/s44/d44/per_window_conf_swap_full.csv",
+      "bytes": 14128558,
+      "sha256": "c4d69cd1aa2d4ebafe7d806a7b9ab707f6f8f7976feb489627b47c08293c7998"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s44/d44/NJ_GATE.json",
+      "bytes": 659,
+      "sha256": "1e9e9cadecf2b8d2e5e494a5d67ee76daba5c526c97ff7365176bb299bc957a6"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s44/d44/CELL_MANIFEST.json",
+      "bytes": 800,
+      "sha256": "d1068262d6173587e0b2f4b64529b0a8fe92ccf0424ad06d2305143ea2001b1b"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s44/d45/per_window_NJ.csv",
+      "bytes": 10321146,
+      "sha256": "a0de7b294baab7aa69b2d068dcb16835a27c74bb9cac9dcfa4ec866577e2217c"
+    },
+    {
+      "path_relative_to_experiment_root": "u1_conf_swap_v2/by_ckpt/s44/d45/per_window_conf_swap_full.csv",
+      "bytes": 14126881,
+      "sha256": "1215c44def56d599256b8da1e3518908dbe8e678ee8444f2b4ed77f9aa731914"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s44/d45/NJ_GATE.json",
+      "bytes": 659,
+      "sha256": "d9c9ee5ebc0f204e308cc881742f20de2b62172b5f406c99466d1a7fca1bc5e8"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s44/d45/CELL_MANIFEST.json",
+      "bytes": 800,
+      "sha256": "f473f4a78f8abb3b763e476adddb398a1721b8f7491ec9a70cb899d0d5220008"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s44/d46/per_window_NJ.csv",
+      "bytes": 10314365,
+      "sha256": "dc72de581c744150048af6f48f0752c39c9507de27a6f7170f04acfcbda738e1"
+    },
+    {
+      "path_relative_to_experiment_root": "u1_conf_swap_v2/by_ckpt/s44/d46/per_window_conf_swap_full.csv",
+      "bytes": 14127222,
+      "sha256": "ba2de4d9ed075392199c731cf0ddc896a3cbeeb62b9b2f124550d6b5c653ab5e"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s44/d46/NJ_GATE.json",
+      "bytes": 659,
+      "sha256": "58c743fe10eb8616fe672d9241e2a44397117dcc5c728b4d37ae8aebd5643467"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s44/d46/CELL_MANIFEST.json",
+      "bytes": 800,
+      "sha256": "000d8760f3b770fa9750968aadd8f3beedd32331cc01c631b3a5cb37ee32aa19"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s45/d42/per_window_NJ.csv",
+      "bytes": 10333575,
+      "sha256": "8d99d0701031a771a28c34ba452177c2d9b10d94d1746201b3785463bd5f88b2"
+    },
+    {
+      "path_relative_to_experiment_root": "u1_conf_swap_v2/by_ckpt/s45/d42/per_window_conf_swap_full.csv",
+      "bytes": 14121875,
+      "sha256": "a42eb63da81779d8786f5ce98429d14ba923ffcb9f1c3042e7a3b581270d59a3"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s45/d42/NJ_GATE.json",
+      "bytes": 659,
+      "sha256": "abbe3b99e4f04f1bd29510e500089a4c0f99e481f4b1e370b0df0410ad6b87ac"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s45/d42/CELL_MANIFEST.json",
+      "bytes": 800,
+      "sha256": "5719ce72b1d86b9996829c61d17dfad0df42f649ce48364206622663244bd59c"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s45/d43/per_window_NJ.csv",
+      "bytes": 10334094,
+      "sha256": "80f1b97bd0ae5955790a929a87da1ac1778026b9af049732b89073d4145603c8"
+    },
+    {
+      "path_relative_to_experiment_root": "u1_conf_swap_v2/by_ckpt/s45/d43/per_window_conf_swap_full.csv",
+      "bytes": 14121836,
+      "sha256": "eec5272ad2a6ead02c93e92da13bb5c0b9275f5347964e3649ccdf3503c63023"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s45/d43/NJ_GATE.json",
+      "bytes": 659,
+      "sha256": "eab7b55cf4fcc20d6b9851cf53819e596ac59adb9dcf304e80bab4ce58cd6e69"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s45/d43/CELL_MANIFEST.json",
+      "bytes": 800,
+      "sha256": "0deb1589ddcdd54d78b4496c1e4da9c003bde101760ffa7fd8b59fcde47db6d1"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s45/d44/per_window_NJ.csv",
+      "bytes": 10324681,
+      "sha256": "cf147767b58a950cc4bfb7fc0e935e1c2544c976f42a5e81db0fa41d87cd5de5"
+    },
+    {
+      "path_relative_to_experiment_root": "u1_conf_swap_v2/by_ckpt/s45/d44/per_window_conf_swap_full.csv",
+      "bytes": 14121951,
+      "sha256": "31b123637f37aaeb09c3e4448267dc0871e525e13cefab9c5b1e9f0f79da8642"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s45/d44/NJ_GATE.json",
+      "bytes": 659,
+      "sha256": "d8c3b0a1e454fdb50bf18123b956cf5db6af0603975a1a8f8b12eb78895d68cd"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s45/d44/CELL_MANIFEST.json",
+      "bytes": 800,
+      "sha256": "f62f66080b96bf106eb77ae69553ca6490d75cb724ccd4eb0bccc0d1b339cc36"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s45/d45/per_window_NJ.csv",
+      "bytes": 10330626,
+      "sha256": "a05990569a53d0b0e93d6f43214a6828ec6afa3f086a4887c21cecfaed835edf"
+    },
+    {
+      "path_relative_to_experiment_root": "u1_conf_swap_v2/by_ckpt/s45/d45/per_window_conf_swap_full.csv",
+      "bytes": 14121566,
+      "sha256": "1cc370aed7a12e229b4c02168c3ba726c4e668efd1ab62f253606545b15a927f"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s45/d45/NJ_GATE.json",
+      "bytes": 659,
+      "sha256": "2ab3b93865e8fef2119328137b1bccfac1157b1927db55d14192532dc8cec315"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s45/d45/CELL_MANIFEST.json",
+      "bytes": 800,
+      "sha256": "3cfc387de8d3bc24b7bc39d8bd94db5fe8f9efde90ca9efe5da53b89f5894735"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s45/d46/per_window_NJ.csv",
+      "bytes": 10324982,
+      "sha256": "ab2dca34fd289755880e3d411aed6949b84c0a6876bd4c78997516123d180554"
+    },
+    {
+      "path_relative_to_experiment_root": "u1_conf_swap_v2/by_ckpt/s45/d46/per_window_conf_swap_full.csv",
+      "bytes": 14121465,
+      "sha256": "0096f85f3191c9210108216ed9c9d48a1f093d49ddc52983fb69633a40125aec"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s45/d46/NJ_GATE.json",
+      "bytes": 659,
+      "sha256": "92bfc032d2b895878a7d3a5470b06e3737ad59e83527559bad3dcacde213cd6e"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s45/d46/CELL_MANIFEST.json",
+      "bytes": 800,
+      "sha256": "e9c050dd948ee0c3f3f903934f6bceed27b88798b44429c9a12e835a224b4af5"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s46/d42/per_window_NJ.csv",
+      "bytes": 10284435,
+      "sha256": "bb5f8fa3b4ed88f471f1abe2bf60e2dd08be17f939f8ca7d5b50d862f63648db"
+    },
+    {
+      "path_relative_to_experiment_root": "u1_conf_swap_v2/by_ckpt/s46/d42/per_window_conf_swap_full.csv",
+      "bytes": 14100466,
+      "sha256": "0f16cf67842deb486d6aabc3d08bedf702a49fd57b5897cbebf969479afe0738"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s46/d42/NJ_GATE.json",
+      "bytes": 659,
+      "sha256": "731edd316252a7b3da0190dbe89c6ff5eeb4f68b4a170df2d5897b6ec18d4631"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s46/d42/CELL_MANIFEST.json",
+      "bytes": 800,
+      "sha256": "2e69dbac3cdb411979710f38617337b11ec543517f410b8d6e5aca2552d6042b"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s46/d43/per_window_NJ.csv",
+      "bytes": 10286119,
+      "sha256": "45f46b199185d40c57bf8e9568e701d6f971751fd8f4110d28e7be2d918c7b34"
+    },
+    {
+      "path_relative_to_experiment_root": "u1_conf_swap_v2/by_ckpt/s46/d43/per_window_conf_swap_full.csv",
+      "bytes": 14100702,
+      "sha256": "c79efaf2e34f6d4c74154cfe129a97d5710fa02151552d2d00d531a69c651847"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s46/d43/NJ_GATE.json",
+      "bytes": 659,
+      "sha256": "8084b64d9bfbb5133db992f1f703227d315e9dd7b99d121d4f99e021f555ea77"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s46/d43/CELL_MANIFEST.json",
+      "bytes": 800,
+      "sha256": "3b19739a500102ee221b0b1e72a8d453c89e1de96a2cf7c6c9bfcca7cc56cc1e"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s46/d44/per_window_NJ.csv",
+      "bytes": 10275969,
+      "sha256": "130d7f33966b4a5fb7a092ccbc781a1f8b6edb54400a2d4c7cfb0f877baa0f92"
+    },
+    {
+      "path_relative_to_experiment_root": "u1_conf_swap_v2/by_ckpt/s46/d44/per_window_conf_swap_full.csv",
+      "bytes": 14100749,
+      "sha256": "01415a00b23091abd32586c0f96beabd7ed72ee607e05b664279f8dd25b98ae5"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s46/d44/NJ_GATE.json",
+      "bytes": 659,
+      "sha256": "420a55fa7aee9ebb120f8ea393807c29d186db56f70b9c44699589e04c1754be"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s46/d44/CELL_MANIFEST.json",
+      "bytes": 800,
+      "sha256": "10c787e70e9ac66ff44f5a7fd378c624c5ffd52f5c7acc405b390d72e7710351"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s46/d45/per_window_NJ.csv",
+      "bytes": 10282664,
+      "sha256": "c24cb6b6347851572ebd561ae4515eda9e418e11261138fd1dfbb7ad02c47af6"
+    },
+    {
+      "path_relative_to_experiment_root": "u1_conf_swap_v2/by_ckpt/s46/d45/per_window_conf_swap_full.csv",
+      "bytes": 14100121,
+      "sha256": "9ab7519ee53fdbd00164265e0b87072ff03d7b1fb1247d59c436e6f734a14d41"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s46/d45/NJ_GATE.json",
+      "bytes": 659,
+      "sha256": "d5e454fe53ab6407d68138d0351d85268977cb7869629359d0b277afd5e0f0b3"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s46/d45/CELL_MANIFEST.json",
+      "bytes": 800,
+      "sha256": "3d896b89ad1bb0658f8eb9137f8c5d3adcf1bca813554c4fcbc876fa845fcfc1"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s46/d46/per_window_NJ.csv",
+      "bytes": 10276608,
+      "sha256": "088ed54f9afac4ade6b33f234235730131ef88a80df19b9497928c32f7cd650d"
+    },
+    {
+      "path_relative_to_experiment_root": "u1_conf_swap_v2/by_ckpt/s46/d46/per_window_conf_swap_full.csv",
+      "bytes": 14100347,
+      "sha256": "a357630feae00a1985bee23af9f5fb41a0719b9c0a6712a99cb3147e58ad3cb0"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s46/d46/NJ_GATE.json",
+      "bytes": 659,
+      "sha256": "67eb5f6c0f174ac050581f022be3e27b00d9f0ea0adfa2e73325a8b59c268ee3"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s46/d46/CELL_MANIFEST.json",
+      "bytes": 800,
+      "sha256": "a8b49cad66089c9ec345e846038bb098c047430183107d663d247e83d09adc5b"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s47/d42/per_window_NJ.csv",
+      "bytes": 10363645,
+      "sha256": "92eec8701088129876ab433e27ebbc853f1926f97231a2f58f422fe0bfb8fe70"
+    },
+    {
+      "path_relative_to_experiment_root": "u1_conf_swap_v2/by_ckpt/s47/d42/per_window_conf_swap_full.csv",
+      "bytes": 14152340,
+      "sha256": "4860ea9bce0f7872dabafe20bf4d83519815b2a174a2d287c29a3639bc347115"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s47/d42/NJ_GATE.json",
+      "bytes": 659,
+      "sha256": "d070526e360c83ce8bd0f364e5751214a9de68df38e50f8e916d7ca832adc13f"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s47/d42/CELL_MANIFEST.json",
+      "bytes": 800,
+      "sha256": "2360270930e436187400f5451782b13da3b2caa5b9de08588bfff9d308b7acd9"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s47/d43/per_window_NJ.csv",
+      "bytes": 10364684,
+      "sha256": "fc15728f9ad0d570df5df0d0710370b7a1fa563b143db71c0781ba3ac3f8e204"
+    },
+    {
+      "path_relative_to_experiment_root": "u1_conf_swap_v2/by_ckpt/s47/d43/per_window_conf_swap_full.csv",
+      "bytes": 14152353,
+      "sha256": "60610c8b77001a24d6ca137a300094aaa3afb8647c3014f55bf6ab7582ffe74e"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s47/d43/NJ_GATE.json",
+      "bytes": 659,
+      "sha256": "af9972798276abea8f98ad5c6789b88d81741b7d0b7da742fd0034011f94e3f4"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s47/d43/CELL_MANIFEST.json",
+      "bytes": 800,
+      "sha256": "61f9b9d63dbb49de1a421a1cc26a8f13b8c32da309cb5db6617c1126287ba5b1"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s47/d44/per_window_NJ.csv",
+      "bytes": 10353380,
+      "sha256": "4cd3c9d53cae83e3bcda6c860c3e71eccdcd4a1e66851404ed6dfb3a1d697831"
+    },
+    {
+      "path_relative_to_experiment_root": "u1_conf_swap_v2/by_ckpt/s47/d44/per_window_conf_swap_full.csv",
+      "bytes": 14152085,
+      "sha256": "001ccd0986705227488f477e37723e41962ff393a1d723d4c25f9b2f7e03764d"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s47/d44/NJ_GATE.json",
+      "bytes": 659,
+      "sha256": "8e7ceacfad1545df967d5fe4f4cf1f5da0f4a00d3f9d6b1a26fe39023b74bde4"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s47/d44/CELL_MANIFEST.json",
+      "bytes": 800,
+      "sha256": "5d1bd914232f44af43481455997b7f6a45cb3e52a1ed2afa1ad3fd810ce4d0a8"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s47/d45/per_window_NJ.csv",
+      "bytes": 10361087,
+      "sha256": "9393656e19facd43fbe81af41b06506738d6d601561f6785a4134d2494b77c66"
+    },
+    {
+      "path_relative_to_experiment_root": "u1_conf_swap_v2/by_ckpt/s47/d45/per_window_conf_swap_full.csv",
+      "bytes": 14151983,
+      "sha256": "c44338387547ed7a4cf7ae66ce0a28d5a2fa68a377f054d5df67cb4946baf089"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s47/d45/NJ_GATE.json",
+      "bytes": 659,
+      "sha256": "4b4a21a96eb95576a0b899a518c5d9461d7b88656baf8d16db2b4b8401c761a0"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s47/d45/CELL_MANIFEST.json",
+      "bytes": 800,
+      "sha256": "0964d8a5fee07099a4811a2fc2140d5a3abc8540cbc94ca94237da1b52303bb0"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s47/d46/per_window_NJ.csv",
+      "bytes": 10354563,
+      "sha256": "a10640a71210e0fb8b3f35e3e89ac766e6c56621ec8475cadb029c98c4f11d55"
+    },
+    {
+      "path_relative_to_experiment_root": "u1_conf_swap_v2/by_ckpt/s47/d46/per_window_conf_swap_full.csv",
+      "bytes": 14150946,
+      "sha256": "6b8d22e1eec6742d10467d29aec8b09eb8e1ca0957f5a9507fcb8efbbcca1c18"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s47/d46/NJ_GATE.json",
+      "bytes": 659,
+      "sha256": "9ead238150851795ac9030c69a4d6880558e75b62b765f32aaec1b71a477706e"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s47/d46/CELL_MANIFEST.json",
+      "bytes": 800,
+      "sha256": "f2c0f7bad0f4a121d347cff12f838832f864ef55f3116ac46d5cf6c17f684ae6"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s48/d42/per_window_NJ.csv",
+      "bytes": 10309996,
+      "sha256": "1aec3f68805d314e8f8796dda3ecfde616987d664d37e0bd686b641ac01d0cd5"
+    },
+    {
+      "path_relative_to_experiment_root": "u1_conf_swap_v2/by_ckpt/s48/d42/per_window_conf_swap_full.csv",
+      "bytes": 14111861,
+      "sha256": "9b327152a74ff44e38723e6f5b240298db1c8b9bff6c15c5023e1c9c5d1e025f"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s48/d42/NJ_GATE.json",
+      "bytes": 659,
+      "sha256": "1a31295a60ced47f6ddc0730c7e7ee32156161d54247f92448b6f8cbfecc47fa"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s48/d42/CELL_MANIFEST.json",
+      "bytes": 800,
+      "sha256": "b862f002a45b59942ff3a24025496bb2d27a01af4433732a1ad718c4d3b94a89"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s48/d43/per_window_NJ.csv",
+      "bytes": 10313275,
+      "sha256": "ccbd791303edbf93da45c327345afb72757a21882e98bc2e752d0a9df1671fdf"
+    },
+    {
+      "path_relative_to_experiment_root": "u1_conf_swap_v2/by_ckpt/s48/d43/per_window_conf_swap_full.csv",
+      "bytes": 14113538,
+      "sha256": "f85803793a7d8099fe05e9f982754574da0ad6f15b9b205620327af1c4f97f12"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s48/d43/NJ_GATE.json",
+      "bytes": 659,
+      "sha256": "5975c4632c4ca2e6a1fca2673770555f7cc2d29cf5ca4fd2c44f1057180bb4fd"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s48/d43/CELL_MANIFEST.json",
+      "bytes": 800,
+      "sha256": "4a6d965fde15105729396bad6bb59116b497f33088c8d8be34c94207ee61b4dd"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s48/d44/per_window_NJ.csv",
+      "bytes": 10303352,
+      "sha256": "10489f11f423c4daa2b18fceeaf152161cc36083ef01d09378f468de68192655"
+    },
+    {
+      "path_relative_to_experiment_root": "u1_conf_swap_v2/by_ckpt/s48/d44/per_window_conf_swap_full.csv",
+      "bytes": 14112909,
+      "sha256": "12f1fee9a539ae5a98687411ed4e46c2f6d12050cfeae92be8ffd643c50a204d"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s48/d44/NJ_GATE.json",
+      "bytes": 659,
+      "sha256": "8700bb3ba664b3733f6ee825e5af14118c93642e2175ebe4370da437ce903e65"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s48/d44/CELL_MANIFEST.json",
+      "bytes": 800,
+      "sha256": "ac6c1c13119ec33decde438129c15db7eee333321f2a34f68d4fc76abe0c994e"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s48/d45/per_window_NJ.csv",
+      "bytes": 10308683,
+      "sha256": "52a274888b1e89a39bf3ecfd57cd6dfef34644ab2e965b47be5b74c198ddb553"
+    },
+    {
+      "path_relative_to_experiment_root": "u1_conf_swap_v2/by_ckpt/s48/d45/per_window_conf_swap_full.csv",
+      "bytes": 14112463,
+      "sha256": "0dbb9c2bd19e4a2c05f2c891f61404ada1399eef0b49f731463bcd34afe90429"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s48/d45/NJ_GATE.json",
+      "bytes": 659,
+      "sha256": "b3faa9d754ae2a9e6f3ef78addce4580def3d2c6867fec41f8221dfbe5dfb18d"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s48/d45/CELL_MANIFEST.json",
+      "bytes": 800,
+      "sha256": "04cb733da695466d9085d65680e229a61d5c5863cb8f22e7ab3cafc66f0d662d"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s48/d46/per_window_NJ.csv",
+      "bytes": 10302167,
+      "sha256": "382a2f440b5f74c59c3ebce41cfe15917ceca152d1b3a5e71243d29eb1fcd2a0"
+    },
+    {
+      "path_relative_to_experiment_root": "u1_conf_swap_v2/by_ckpt/s48/d46/per_window_conf_swap_full.csv",
+      "bytes": 14111969,
+      "sha256": "b31e1148e4d541ab8413345708b1f74b3df8544ef3530ced9831b652f88a2db9"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s48/d46/NJ_GATE.json",
+      "bytes": 659,
+      "sha256": "3d75d8bfdf4dce199a7bbd722c9dd50745bab45f364643bc9ae800bc887caddc"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s48/d46/CELL_MANIFEST.json",
+      "bytes": 800,
+      "sha256": "7d54de3e643ee24b1c382a6f1be08544b87da12b7377d7a5bfb971ac9277bb81"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s49/d42/per_window_NJ.csv",
+      "bytes": 10421831,
+      "sha256": "8b8a119c36d96bdcfdd13c92f0ca9ae88a6d306f5fe4ef6b26fb6fcf3a1c350a"
+    },
+    {
+      "path_relative_to_experiment_root": "u1_conf_swap_v2/by_ckpt/s49/d42/per_window_conf_swap_full.csv",
+      "bytes": 14171498,
+      "sha256": "19a22bc5ee1835f6172647d23810babc7aaae4dbedb4b7a15119db5bd92ee8ae"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s49/d42/NJ_GATE.json",
+      "bytes": 659,
+      "sha256": "527a2e2b5ba36a67ff7e54aa31803b23aacf7d83652df0133d74f5c62dcfb3c2"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s49/d42/CELL_MANIFEST.json",
+      "bytes": 800,
+      "sha256": "ff336c6b987fa18dd9329f4567a263b5da46ee01b772b57cbbf232734dc2b305"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s49/d43/per_window_NJ.csv",
+      "bytes": 10420959,
+      "sha256": "51edb4a267ecf41c79baf74f70484edf28ea77d0f8a9ca923064692cbf64bcfe"
+    },
+    {
+      "path_relative_to_experiment_root": "u1_conf_swap_v2/by_ckpt/s49/d43/per_window_conf_swap_full.csv",
+      "bytes": 14171363,
+      "sha256": "7c55c265c620de25eafdce13d1cfdad57e4403b6e3fdf8e560bd66bf8edba5ad"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s49/d43/NJ_GATE.json",
+      "bytes": 659,
+      "sha256": "0a8c336a89a1bfca20386fd4c3f9a263c1b6cc53939813ef5035be3082592e92"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s49/d43/CELL_MANIFEST.json",
+      "bytes": 800,
+      "sha256": "c9e59f733833b76a228ec28ced1a728c074a52f8812f2f3394f4e111e6ce014a"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s49/d44/per_window_NJ.csv",
+      "bytes": 10411692,
+      "sha256": "3fae0a4c4209ac37c157d986a375ae1176931ff69a51187c42f6257c90d15ab2"
+    },
+    {
+      "path_relative_to_experiment_root": "u1_conf_swap_v2/by_ckpt/s49/d44/per_window_conf_swap_full.csv",
+      "bytes": 14171489,
+      "sha256": "5a24e11a18ad6cfc2680e8448dd35164cd3e6795d25c3a4492773c11a2f59df5"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s49/d44/NJ_GATE.json",
+      "bytes": 659,
+      "sha256": "6cb14d11c47cebdc04148aa154cb583ec80107db622c0c086ea9fd60fc1173d2"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s49/d44/CELL_MANIFEST.json",
+      "bytes": 800,
+      "sha256": "638eac303a57407ee788a26f40fae93776e59a353517bd3d69681d225f5b7a8e"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s49/d45/per_window_NJ.csv",
+      "bytes": 10417834,
+      "sha256": "5b52fd9857508a446ccb07c85451dea38b02f09c96caff614bf243747e955d2f"
+    },
+    {
+      "path_relative_to_experiment_root": "u1_conf_swap_v2/by_ckpt/s49/d45/per_window_conf_swap_full.csv",
+      "bytes": 14170539,
+      "sha256": "e490b85ee3965d1f744c05a2404ef67b05f5093c01af13f10b9a2d2618b7edfe"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s49/d45/NJ_GATE.json",
+      "bytes": 659,
+      "sha256": "cbe74e94f09922be8cc3135f60f1bb495bce9ed882bded28f1b7ad6e2131269c"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s49/d45/CELL_MANIFEST.json",
+      "bytes": 800,
+      "sha256": "56acb117beaa27d7bb073082fbc27920252df9691f1726cf27d051a1116a07b5"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s49/d46/per_window_NJ.csv",
+      "bytes": 10412874,
+      "sha256": "af36c69e2e8101462001d89fb5ed4d38a0fff102e53187e03c1a0b176c42f0b5"
+    },
+    {
+      "path_relative_to_experiment_root": "u1_conf_swap_v2/by_ckpt/s49/d46/per_window_conf_swap_full.csv",
+      "bytes": 14171011,
+      "sha256": "05b8cb04aa09430994b12753d08074a1fa2fb44926cc356d5a4e4fc0c1576649"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s49/d46/NJ_GATE.json",
+      "bytes": 659,
+      "sha256": "6ca8238956d536e468ed68b93ffb12f0c24bba212babd4062b07a732a5a2a812"
+    },
+    {
+      "path_relative_to_experiment_root": "nj_same_assign_v1/by_ckpt/s49/d46/CELL_MANIFEST.json",
+      "bytes": 800,
+      "sha256": "fd780bb69a1a70c0abc9b59378aec402b46d8b67fb25abd43ce57aa1969fc0a6"
+    }
+  ]
+}

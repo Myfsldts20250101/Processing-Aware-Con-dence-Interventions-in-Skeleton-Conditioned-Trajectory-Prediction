@@ -1,0 +1,53 @@
+{
+  "verification": "SHA-256 matches original diagnostic registry; no model loading or inference",
+  "files": [
+    {
+      "seed": 42,
+      "path": "checkpoints/jrdb_v2_decoupled_z_s42_20260619_1432/best.pt",
+      "bytes": 33872441,
+      "sha256": "94cb5326200fa2544340c87d59200b9e15f397c66fe99e39a6727f885c6ce07f"
+    },
+    {
+      "seed": 43,
+      "path": "checkpoints/jrdb_v2_decoupled_z_s43_paired3/best.pt",
+      "bytes": 33872441,
+      "sha256": "7767867582a9dff71ceb787da149023c419e4faec4d984b542e777a79c6339fe"
+    },
+    {
+      "seed": 44,
+      "path": "checkpoints/jrdb_v2_decoupled_z_s44_paired3/best.pt",
+      "bytes": 33872441,
+      "sha256": "15d12a1fa535de7b713a726dc342ac01a449b73eab09b7033196c8cf77393374"
+    },
+    {
+      "seed": 45,
+      "path": "checkpoints/jrdb_v2_decoupled_z_s45_paired5/best.pt",
+      "bytes": 33872441,
+      "sha256": "eb2f367fe9aa6e197180562978ebc7053fc2c8f0bfed3ddad4feece5e8142d27"
+    },
+    {
+      "seed": 46,
+      "path": "checkpoints/jrdb_v2_decoupled_z_s46_paired5/best.pt",
+      "bytes": 33872441,
+      "sha256": "83d3a816765a1b55a8b9b911840d817ae2592aa610bad1735a59992f52cbdde0"
+    },
+    {
+      "seed": 47,
+      "path": "checkpoints/jrdb_v2_decoupled_z_s47_paired8/best.pt",
+      "bytes": 33872441,
+      "sha256": "5257aad963453a7f971137a9504b95d970b716beb3cb0e8df99e5f6771966d60"
+    },
+    {
+      "seed": 48,
+      "path": "checkpoints/jrdb_v2_decoupled_z_s48_paired8/best.pt",
+      "bytes": 33872441,
+      "sha256": "bf59925031a14672858518fe0268eea37408b59f38eff4a47e73e3755673eb38"
+    },
+    {
+      "seed": 49,
+      "path": "checkpoints/jrdb_v2_decoupled_z_s49_paired8/best.pt",
+      "bytes": 33872441,
+      "sha256": "39525c1aa7f612bb96787bad7bc727fd6e8b8ed48eb7018e4cfdde2547b59465"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+# =============================================================
+# 对照 B：双分支 + 解耦 z（独立后验）
+#
+# 训练：q_s(z|memory_simple, future) 与 q_f(z|memory_fusion, future) 各自采样，
+#       简单分支用 z_s 解码，融合分支用 z_f 解码；KL = KL_s + KL_f。
+# 损失：双分支重建等权 0.5/0.5。
+#
+# 假说：若共享 z 导致「z 被 fusion 定型、simple 分支被拖累」，解耦 z 应
+#       使 minADE@20 接近或优于 ①（0.1701），且 val KL 两路均不退化。
+#
+# 运行:
+#   cd ctr_gcn_traj && source scripts/activate_env.sh
+#   VARIANT=decoupled_z STEP=all GPU=0 bash scripts/run_decoupled_z_ablation.sh
+# =============================================================
+
+data:
+  dataset: "jrdb"
+  data_dir: "./data/jrdb_processed"
+  traj_scale: 1000.0
+  obs_len: 8
+  pred_len: 12
+  skip: 1
+  min_ped: 1
+  num_workers: 4
+  motion_filter:
+    enabled: true
+    metric: endpoint
+    threshold: 0.5
+    apply_splits: [train, val, test]
+    use_cache: true
+
+skeleton:
+  num_joints: 17
+  in_channels: 2
+  use_confidence: true
+  pretrained_weights: null
+
+fusion:
+  cross_attn_gate_bias_init: 1.0
+
+dual_branch:
+  enabled: true
+  decoupled_z: true
+  branch_weight_simple: 0.5
+  branch_weight_fusion: 0.5
+  skeleton_freeze_epochs: 0
+
+model:
+  d_model: 128
+  nhead: 8
+  num_encoder_layers: 4
+  num_decoder_layers: 4
+  dim_feedforward: 512
+  dropout: 0.1
+  traj_input_dim: 2
+  traj_embed_dim: 128
+  gcn_channels: [64, 64, 128]
+  gcn_temporal_kernel: 9
+  fusion_type: "cross_attn"
+  latent_dim: 32
+  decoupled_z: true
+  num_samples: 20
+  kl_weight: 0.1
+  kl_weight_final: 1.0
+  kl_anneal_epochs: 50
+  skeleton_in_decoder: false
+  cvae_logvar_min: -8.0
+  cvae_logvar_max: 4.0
+  cvae_free_bits: 0.25
+  cvae_free_bits_weight: 1.0
+  decoder_z_scale_init: 1.0
+
+training:
+  seed: 42
+  epochs: 200
+  batch_size: 64
+  lr: 1.0e-3
+  weight_decay: 1.0e-4
+  lr_scheduler: "cosine"
+  lr_step_size: 50
+  lr_gamma: 0.5
+  warmup_epochs: 5
+  grad_clip: 1.0
+  train_num_samples: 4
+  freeze_skeleton: false
+  skeleton_lr_scale: 1.0
+  best_metric: "ade"
+  checkpoint_dir: "./checkpoints"
+  log_dir: "./logs"
+  save_every: 10
+  eval_every: 5
+
+social:
+  enable: false
+  neighbor_radius: 5.0
+  max_neighbors: 10

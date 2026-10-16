@@ -1,0 +1,22 @@
+{
+  "scheme_version": "E1-rev1",
+  "created_at": "2026-10-02T22:12:25+0800",
+  "n_scan_windows": 29158,
+  "n_has_skeleton": 15603,
+  "n_placeholder_t0": 13555,
+  "n_kp_all_zero": 13555,
+  "has_skel_x_placeholder": {
+    "hs0_ph1": 13555,
+    "hs1_ph0": 15603
+  },
+  "n_targets_A": 29158,
+  "n_targets_B": 15603,
+  "target_set_A_sha256": "b162da9a6ef2a75136d3c370c214f9c0d814f8f1f67e6db7762d525e8e2931c8",
+  "target_set_B_sha256": "d84beaa6db7c08b5f0664943233959b96e02eff3642fecddd9f8a2187a741a41",
+  "p0_npz": "eval_logs/e123/freeze/p0_chain.npz",
+  "p0_npz_sha256": "80e2e979abee329f9a5c03ab68a111d162e5c21513d1c212be77cd928df018b4",
+  "mean_n_valid_frames": 4.034433088689211,
+  "frac_all_frames_masked_raw": 0.4648809932094108,
+  "frac_placeholder_t0": 0.4648809932094108,
+  "frac_has_skeleton": 0.5351190067905892
+}

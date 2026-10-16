@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+title: "Processing-Aware Confidence Interventions in Skeleton-Conditioned Trajectory Prediction"
+message: "Diagnostic code and frozen protocol materials for the confidence-intervention study. No DOI is registered in this package."
+authors:
+  - family-names: Wu
+    given-names: Caihong
+  - family-names: Ma
+    given-names: Xueming
+  - family-names: Shi
+    given-names: Shi
+  - family-names: Li
+    given-names: Feng
+repository-code: "https://github.com/Myfsldts20250101/Skeleton-Enhanced-Pedestrian-Trajectory-Prediction-for-Human-Robot-Collaboration-via-Gated-Fusion-an"
+license: Apache-2.0

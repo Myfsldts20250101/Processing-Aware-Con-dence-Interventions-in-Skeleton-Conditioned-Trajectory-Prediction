@@ -1,0 +1,26 @@
+{
+  "python_files_parsed": 60,
+  "archived_U1F_check_exit": 0,
+  "smoke_exit": 2,
+  "smoke_status": "BLOCKED",
+  "data_weights_protocols_archived_results_unchanged": true,
+  "changed_existing_files": [
+    "./README.md",
+    "./data/jrdb_dataset.py",
+    "./diagnostics/README.md",
+    "./diagnostics/runners/40test.py",
+    "./diagnostics/runners/41_u1f_supplement_readonly.py",
+    "./diagnostics/runners/42_u1f_joint_response_delta_figs.py",
+    "./diagnostics/runners/43_u1f_repro_check.py",
+    "./diagnostics/runners/44_u1f_donor_range_HI.py",
+    "./diagnostics/runners/45_nj_aggregate.py",
+    "./diagnostics/runners/46_nj_seed_range_figs.py",
+    "./diagnostics/runners/run_nj_40.sh",
+    "./diagnostics/runners/run_u1f_40.sh",
+    "./figures/README.md",
+    "./provenance/GAPS.md",
+    "./provenance/SOURCE_MAP.md"
+  ],
+  "dependency_installation": "not performed; approval rejected",
+  "shell_execution": "not tested"
+}

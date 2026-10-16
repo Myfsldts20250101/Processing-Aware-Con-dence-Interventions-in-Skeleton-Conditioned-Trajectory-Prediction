@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="544.32pt" height="357.12pt" viewBox="0 0 544.32 357.12" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-12T09:57:34.206764</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.1, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 357.12 
+L 544.32 357.12 
+L 544.32 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 23.8752 91.4688 
+L 235.3968 91.4688 
+Q 241.7904 91.4688 241.7904 87.3216 
+L 241.7904 45.1584 
+Q 241.7904 41.0112 235.3968 41.0112 
+L 23.8752 41.0112 
+Q 17.4816 41.0112 17.4816 45.1584 
+L 17.4816 87.3216 
+Q 17.4816 91.4688 23.8752 91.4688 
+z
+" clip-path="url(#p77df6142aa)" style="fill: #f6f7fa; stroke: #d8dce5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 129.3696 92.435906 
+Q 129.3696 99.072578 129.3696 104.591216 
+" clip-path="url(#p77df6142aa)" style="fill: none; stroke: #273142; stroke-linecap: round"/>
+    <path d="M 131.5696 100.191216 
+L 129.3696 104.591216 
+L 127.1696 100.191216 
+z
+" clip-path="url(#p77df6142aa)" style="fill: #273142; stroke: #273142; stroke-linecap: round"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 23.8752 157.1328 
+L 235.3968 157.1328 
+Q 241.7904 157.1328 241.7904 152.9856 
+L 241.7904 110.8224 
+Q 241.7904 106.6752 235.3968 106.6752 
+L 23.8752 106.6752 
+Q 17.4816 106.6752 17.4816 110.8224 
+L 17.4816 152.9856 
+Q 17.4816 157.1328 23.8752 157.1328 
+z
+" clip-path="url(#p77df6142aa)" style="fill: #f6f7fa; stroke: #d8dce5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 129.3696 177.104953 
+Q 129.3696 182.879697 129.3696 187.536408 
+" clip-path="url(#p77df6142aa)" style="fill: none; stroke: #273142; stroke-linecap: round"/>
+    <path d="M 131.5696 183.136408 
+L 129.3696 187.536408 
+L 127.1696 183.136408 
+z
+" clip-path="url(#p77df6142aa)" style="fill: #273142; stroke: #273142; stroke-linecap: round"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 23.8752 241.8048 
+L 235.3968 241.8048 
+Q 241.7904 241.8048 241.7904 237.6576 
+L 241.7904 193.7664 
+Q 241.7904 189.6192 235.3968 189.6192 
+L 23.8752 189.6192 
+Q 17.4816 189.6192 17.4816 193.7664 
+L 17.4816 237.6576 
+Q 17.4816 241.8048 23.8752 241.8048 
+z
+" clip-path="url(#p77df6142aa)" style="fill: #f0f2fc; stroke: #596bd8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 290.2752 91.4688 
+L 520.4448 91.4688 
+Q 526.8384 91.4688 526.8384 87.3216 
+L 526.8384 45.1584 
+Q 526.8384 41.0112 520.4448 41.0112 
+L 290.2752 41.0112 
+Q 283.8816 41.0112 283.8816 45.1584 
+L 283.8816 87.3216 
+Q 283.8816 91.4688 290.2752 91.4688 
+z
+" clip-path="url(#p77df6142aa)" style="fill: #f0f2fc; stroke: #596bd8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 405.36 92.435906 
+Q 405.36 99.072578 405.36 104.591216 
+" clip-path="url(#p77df6142aa)" style="fill: none; stroke: #273142; stroke-linecap: round"/>
+    <path d="M 407.56 100.191216 
+L 405.36 104.591216 
+L 403.16 100.191216 
+z
+" clip-path="url(#p77df6142aa)" style="fill: #273142; stroke: #273142; stroke-linecap: round"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 290.2752 157.1328 
+L 520.4448 157.1328 
+Q 526.8384 157.1328 526.8384 152.9856 
+L 526.8384 110.8224 
+Q 526.8384 106.6752 520.4448 106.6752 
+L 290.2752 106.6752 
+Q 283.8816 106.6752 283.8816 110.8224 
+L 283.8816 152.9856 
+Q 283.8816 157.1328 290.2752 157.1328 
+z
+" clip-path="url(#p77df6142aa)" style="fill: #f6f7fa; stroke: #d8dce5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 290.2752 241.8048 
+L 520.4448 241.8048 
+Q 526.8384 241.8048 526.8384 237.6576 
+L 526.8384 193.7664 
+Q 526.8384 189.6192 520.4448 189.6192 
+L 290.2752 189.6192 
+Q 283.8816 189.6192 283.8816 193.7664 
+L 283.8816 237.6576 
+Q 283.8816 241.8048 290.2752 241.8048 
+z
+" clip-path="url(#p77df6142aa)" style="fill: #fdf0f6; stroke: #e83e8c; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 16.416 277.056 
+L 527.904 277.056 
+" clip-path="url(#p77df6142aa)" style="fill: none; stroke: #e0e3ea; stroke-linecap: square"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #273142" x="16.416" y="22.481344" transform="rotate(-0 16.416 22.481344)">a  Freeze the evaluation population</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; fill: #273142" transform="translate(72.120375 62.210312)">Moving test stratum</text>
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; fill: #273142" transform="translate(84.099281 76.079063)">29,158 windows</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #273142" transform="translate(64.243813 127.913375)">Skeleton-available targets</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #273142" transform="translate(88.977406 141.871969)">15,603 windows</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 8.3px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #273142" x="129.3696" y="168.754281" transform="rotate(-0 129.3696 168.754281)">BV1 passes all five frozen donor maps</text>
+   </g>
+   <g id="text_5">
+    <!-- Frozen $S_{\mathrm{BV}}$ -->
+    <g style="fill: #273142" transform="translate(100.986 211.962)">
+     <text>
+      <tspan x="0" y="-0.578125" style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; fill: #273142">F</tspan>
+      <tspan x="6.831055" y="-0.578125" style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; fill: #273142">r</tspan>
+      <tspan x="11.762695" y="-0.578125" style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; fill: #273142">o</tspan>
+      <tspan x="18.632812" y="-0.578125" style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; fill: #273142">z</tspan>
+      <tspan x="24.453125" y="-0.578125" style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; fill: #273142">e</tspan>
+      <tspan x="31.235352" y="-0.578125" style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; fill: #273142">n</tspan>
+      <tspan x="38.354492" y="-0.578125" style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; fill: #273142"> </tspan>
+      <tspan x="41.835938" y="-0.578125" style="font-style: oblique; font-size: 10px; font-family: 'DejaVu Sans'; fill: #273142">S</tspan>
+      <tspan x="48.183594" y="0.92187" style="font-size: 7px; font-family: 'DejaVu Sans'; fill: #273142">B</tspan>
+      <tspan x="52.98584" y="0.92187" style="font-size: 7px; font-family: 'DejaVu Sans'; fill: #273142">V</tspan>
+     </text>
+    </g>
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; fill: #273142" transform="translate(42.196938 225.182312)">15,160 mutually valid windows</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; fill: #273142" transform="translate(70.69503 251.891169)">97.16% of available targets</text>
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; fill: #273142" transform="translate(64.131436 263.366169)">51.99% of the moving stratum</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #273142" x="282.816" y="22.440328" transform="rotate(-0 282.816 22.440328)">b  Evaluate shared keys and assignments</text>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; fill: #273142" transform="translate(295.942813 62.210312)">8 training checkpoints × 5 donor maps</text>
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; fill: #273142" transform="translate(360.374844 76.718125)">40 crossed cells</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 9.3px; font-family: 'DejaVu Sans'; fill: #273142" transform="translate(348.865406 128.192719)">15,160 windows per cell</text>
+    <text style="font-size: 9.3px; font-family: 'DejaVu Sans'; fill: #273142" transform="translate(316.130133 140.747719)">606,400 repeated cell-window records</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #273142" transform="translate(316.664297 206.045437)">HST boundary: 4,372 candidates − 384</text>
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #273142" transform="translate(336.758203 218.608172)">= 3,988 windows in 17 scenes</text>
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #273142" transform="translate(340.614141 230.345437)">One checkpoint × one donor</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #273142" x="288.144" y="258.582687" transform="rotate(-0 288.144 258.582687)">Different interface, subset and repetition structure</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 8.7px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #273142" x="16.416" y="298.464656" transform="rotate(-0 16.416 298.464656)">Initial content audit: 7,446 of 29,158 nominal replacements were unchanged (25.54%).</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 8.1px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #273142" x="16.416" y="324.219094" transform="rotate(-0 16.416 324.219094)">The initial audit is a separate run. Repeated records are not independent windows or training runs.</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p77df6142aa">
+   <rect x="5.76" y="5.76" width="532.8" height="345.6"/>
+  </clipPath>
+ </defs>
+</svg>

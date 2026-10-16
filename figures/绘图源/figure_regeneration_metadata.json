@@ -1,0 +1,91 @@
+{
+  "created": "2026-10-10",
+  "no_training_or_inference": true,
+  "policy_support": {
+    "n_source_records": 606400,
+    "n_cells": 40,
+    "point": "Mean of five donor cell-window means per training seed",
+    "whisker": "Minimum and maximum of five donor cell means; not confidence intervals",
+    "cell_means_csv_sha256": "c18dc0d8c8bb873583502e5df03cfc342b9b067de8f269d4366a93a10dbb89f8",
+    "summary": {
+      "delta_policy": {
+        "mean": 0.0025818016232578957,
+        "sample_sd": 0.0024718588797761052,
+        "positive_seeds": 7,
+        "negative_seeds": 1,
+        "per_seed_mean": {
+          "42": 0.003053815343489718,
+          "43": -0.000872971861104734,
+          "44": 0.005687506820860326,
+          "45": 0.0059582669856512085,
+          "46": 0.0011579306839073276,
+          "47": 0.0009892709691127846,
+          "48": 0.0039033410187975298,
+          "49": 0.0007772530253490035
+        }
+      },
+      "delta_support": {
+        "mean": 0.010544789401983052,
+        "sample_sd": 0.007859615942456764,
+        "positive_seeds": 8,
+        "negative_seeds": 0,
+        "per_seed_mean": {
+          "42": 0.006020428016124475,
+          "43": 0.006012517514375671,
+          "44": 0.019623927255105818,
+          "45": 0.008670149130146524,
+          "46": 0.005618548185766077,
+          "47": 0.02549808129443391,
+          "48": 0.00993405279199074,
+          "49": 0.0029806110279211933
+        }
+      }
+    }
+  },
+  "F_response_deciles": {
+    "source": "Archived FIGS_SUMMARY.json from 2000窗 sample-seed=20261005",
+    "source_sha256": "2b467cb631cfc7bb03704b43c23ba454415e3faedc72941b465e09e54d40e716",
+    "archived_source_meta": {
+      "n_raw_include_main": 606400,
+      "n_plot": 80000,
+      "per_cell_cap": 2000,
+      "sample_seed": 20261005,
+      "tau_main": 0.01,
+      "note": "图为关系展示；主表数字仍以 closeout/supplement 层级汇总为准"
+    },
+    "n_deciles": 10,
+    "n_records_per_decile": 8000,
+    "n_plot_records_represented": 80000,
+    "counts_recovered_from": "Exact archived proportions times archived integer bin counts; checked integer recovery and pooled fractions",
+    "pooled_fractions": {
+      "improve": 0.1477375,
+      "stable": 0.66935,
+      "worsen": 0.1829125
+    },
+    "historical_sample_limit": "Plot is redrawn from archived decile summaries. Original 80000-row sample and sampling code were not available locally. No claim that individual historical sampled records have been recovered.",
+    "inference_limit": "Descriptive pooled cell-window records, not independent observations. Main tables retain full-data hierarchical statistics.",
+    "unchanged_full_hierarchy": true
+  },
+  "outputs": {
+    "vector_pdf": [
+      "correspondence_nj_policy_support.pdf",
+      "correspondence_u1f_response_deciles.pdf"
+    ],
+    "png": {
+      "dpi": 400,
+      "policy_support_pixels": [
+        2640,
+        1540
+      ],
+      "response_deciles_pixels": [
+        2640,
+        1700
+      ]
+    },
+    "editable": "Python, vector SVG, 40-cell means CSV, archived summary JSON, exact 10-bin counts CSV"
+  },
+  "software": {
+    "numpy": "2.4.6",
+    "matplotlib": "3.11.1"
+  }
+}

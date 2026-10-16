@@ -1,0 +1,15 @@
+# Download assets from the diagnostic Zenodo record when published.
+checkpoints/**/*.pt
+data/jrdb_processed/
+data/indices_endpoint_0.5_background/
+statistics/**/*.csv
+statistics/**/*.csv.gz
+statistics/**/*.npz
+archived_analyses/
+local_runs/
+motion_filter_cache/
+**/__pycache__/
+**/matplotlib_cache/
+*.pyc
+.venv/
+.env

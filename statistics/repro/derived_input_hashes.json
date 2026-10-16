@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "hash_algorithm": "SHA-256",
+  "files": [
+    {
+      "path": "data/core_windows.csv.gz",
+      "bytes": 58125908,
+      "sha256": "3f33489eddbaa064814f42688e1b88bd1a747e5788bc5d3089e64caf818690b0"
+    },
+    {
+      "path": "data/donor_map_d42.csv.gz",
+      "bytes": 82194,
+      "sha256": "fce32940e3231ebc2fc6c5f3e467dac01453f3b0ca99226ffadf61665879d3e3"
+    },
+    {
+      "path": "data/donor_map_d43.csv.gz",
+      "bytes": 82171,
+      "sha256": "6bb25e5c4181824e51ef60b0cd2eb4778701134e926fa595256e03d655c6c9d9"
+    },
+    {
+      "path": "data/donor_map_d44.csv.gz",
+      "bytes": 82271,
+      "sha256": "5c0bdbcc53535f2ffb29fdd1d4a3cbf036668b0eadd6d41af6f9482a2b93011f"
+    },
+    {
+      "path": "data/donor_map_d45.csv.gz",
+      "bytes": 82310,
+      "sha256": "671376e6abbc435db342f7531b44dc1dd72922fcbf3d47f7b7891d12963dd152"
+    },
+    {
+      "path": "data/donor_map_d46.csv.gz",
+      "bytes": 82087,
+      "sha256": "7543d32afb38b6afb510a7eba508558cf04d358686373b436666412adc2cbe13"
+    },
+    {
+      "path": "data/frozen_roster.csv.gz",
+      "bytes": 42975,
+      "sha256": "a341871b623a6ae4984a2749bbad27067844b3ff95740b613db7b8ec7d17fa66"
+    }
+  ]
+}

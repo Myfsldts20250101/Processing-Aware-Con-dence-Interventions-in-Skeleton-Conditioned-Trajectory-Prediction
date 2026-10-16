@@ -1,0 +1,16 @@
+{
+  "n_moving_universe_note": "T_B is content-diagnostic universe, NOT the full moving set (~29158). Protocol A full-moving results must not be filled from protocol B / S_BV.",
+  "n_T_B": 15603,
+  "per_seed_ok_bv": {
+    "42": 15331,
+    "43": 15332,
+    "44": 15319,
+    "45": 15322,
+    "46": 15326
+  },
+  "n_intersection_ok_bv": 15160,
+  "coverage_intersection_of_TB": 0.9716080240979299,
+  "excluded_from_TB": 443,
+  "exclude_ratio": 0.028391975902070116,
+  "coverage_rule": "intersection_ok_bv"
+}
