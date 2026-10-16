@@ -6,7 +6,7 @@
 
 拟沿用的分发仓库：
 
-<https://github.com/Myfsldts20250101/Skeleton-Enhanced-Pedestrian-Trajectory-Prediction-for-Human-Robot-Collaboration-via-Gated-Fusion-an>
+<https://github.com/Myfsldts20250101/Processing-Aware-Con-dence-Interventions-in-Skeleton-Conditioned-Trajectory-Prediction>
 
 本地整理未向该仓库推送文件。
 
